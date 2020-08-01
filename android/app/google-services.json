@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382207728660",
+    "firebase_url": "https://iemct-workshop-37.firebaseio.com",
+    "project_id": "iemct-workshop-37",
+    "storage_bucket": "iemct-workshop-37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382207728660:android:357c2223f49891d2c05b01",
+        "android_client_info": {
+          "package_name": "com.example.iemct_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382207728660-9kteokp768duclonjae6bcgdtgaqkn8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iemct_app",
+            "certificate_hash": "c07c7d7e646b50b91e8f9217bc2c0ec0aae7bfb1"
+          }
+        },
+        {
+          "client_id": "382207728660-mrkbiam83fqtcsp3v0kj3p7skmfb5oqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9vbkGMgVaQEBOCthGRVAuObJdU9_6JDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382207728660-mrkbiam83fqtcsp3v0kj3p7skmfb5oqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
